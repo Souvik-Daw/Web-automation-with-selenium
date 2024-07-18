@@ -1,0 +1,31 @@
+Note
+Automation test and Twitter post scraper project were for practise
+
+
+
+->Instagram
+Get followers
+user name from comments
+user name from likes
+automate sms sending (1000 per day with different account)
+= completed, try catch need to setup for element change
+
+
+
+->Google Maps
+Get username, phone number and other details from search 
+= completed, auto scrolling need to be setup 
+
+
+
+->LinkedIn
+Search in post for specific keyword
+Also with the username
+=Completed
+
+
+
+Need to do
+1. End to end testing 
+2. Enhancement
+
